@@ -1,1 +1,1 @@
-<a href="https://www.thomasprunet.com/pokedex" target=blank>Voir en live</a>
+<a href="https://www.thomasprunet.com/pokedex" target=_blank>Voir en live</a>
